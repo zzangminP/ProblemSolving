@@ -1,2 +1,2 @@
-﻿  2442.cpp
-  ps.vcxproj -> F:\projects\ps\ps\Debug\ps.exe
+﻿  10845.cpp
+F:\projects\ps\ps\ps\10845.cpp(19,11): error C3861: 'front': 식별자를 찾을 수 없습니다.
