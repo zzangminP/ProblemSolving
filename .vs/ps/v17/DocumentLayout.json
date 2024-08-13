@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "F:\\projects\\ps\\ps\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1926.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,31 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4179.cpp",
+              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
+              "RelativeDocumentMoniker": "ps\\4179.cpp",
+              "ToolTip": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
+              "RelativeToolTip": "ps\\4179.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T14:21:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "7576.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
               "RelativeDocumentMoniker": "ps\\7576.cpp",
               "ToolTip": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
               "RelativeToolTip": "ps\\7576.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T13:33:46.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "temp.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
               "RelativeDocumentMoniker": "ps\\temp.cpp",
               "ToolTip": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
               "RelativeToolTip": "ps\\temp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-08T12:00:19.299Z"
+              "WhenOpened": "2024-08-08T12:00:19.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "1926.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\1926.cpp",
               "RelativeDocumentMoniker": "ps\\1926.cpp",
@@ -67,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "2178.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\2178.cpp",
               "RelativeDocumentMoniker": "ps\\2178.cpp",
