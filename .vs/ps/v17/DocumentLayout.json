@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\projects\\ps\\ps\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1926.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "10026.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\10026.cpp",
               "RelativeDocumentMoniker": "ps\\10026.cpp",
               "ToolTip": "F:\\projects\\ps\\ps\\ps\\10026.cpp",
               "RelativeToolTip": "ps\\10026.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAHwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-15T07:18:03.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T07:18:03.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "4179.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
               "RelativeDocumentMoniker": "ps\\4179.cpp",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "ps\\4179.cpp",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-13T14:21:07.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T14:21:07.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "7576.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
               "RelativeDocumentMoniker": "ps\\7576.cpp",
@@ -80,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "temp.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
               "RelativeDocumentMoniker": "ps\\temp.cpp",
@@ -88,7 +86,8 @@
               "RelativeToolTip": "ps\\temp.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-08T12:00:19.299Z"
+              "WhenOpened": "2024-08-08T12:00:19.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
