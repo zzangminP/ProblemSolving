@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "F:\\projects\\ps\\ps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\11729.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\11729.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -55,19 +51,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "11729.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\11729.cpp",
-              "RelativeDocumentMoniker": "ps\\11729.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\11729.cpp",
-              "RelativeToolTip": "ps\\11729.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-23T11:21:50.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "1629.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\1629.cpp",
               "RelativeDocumentMoniker": "ps\\1629.cpp",
@@ -80,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "2166.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\2166.cpp",
               "RelativeDocumentMoniker": "ps\\2166.cpp",
@@ -93,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "10026.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\10026.cpp",
               "RelativeDocumentMoniker": "ps\\10026.cpp",
@@ -105,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "4179.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
               "RelativeDocumentMoniker": "ps\\4179.cpp",
@@ -117,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "7576.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
               "RelativeDocumentMoniker": "ps\\7576.cpp",
@@ -129,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "temp.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
               "RelativeDocumentMoniker": "ps\\temp.cpp",
@@ -142,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "1926.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\1926.cpp",
               "RelativeDocumentMoniker": "ps\\1926.cpp",
@@ -154,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "2178.cpp",
               "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\2178.cpp",
               "RelativeDocumentMoniker": "ps\\2178.cpp",
