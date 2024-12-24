@@ -1,37 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\projects\\ps\\ps\\",
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1074.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1074.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\11729.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\11729.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2166.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1629.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\1926.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1926.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1926.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|F:\\projects\\ps\\ps\\ps\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,37 +58,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "11729.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\11729.cpp",
+              "RelativeDocumentMoniker": "ps\\11729.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\11729.cpp",
+              "RelativeToolTip": "ps\\11729.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T11:56:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "1629.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\1629.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1629.cpp",
               "RelativeDocumentMoniker": "ps\\1629.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\1629.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1629.cpp",
               "RelativeToolTip": "ps\\1629.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-23T14:10:55.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T14:10:55.614Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "2166.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\2166.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2166.cpp",
               "RelativeDocumentMoniker": "ps\\2166.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\2166.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2166.cpp",
               "RelativeToolTip": "ps\\2166.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-18T14:05:26.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "10026.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\10026.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\10026.cpp",
               "RelativeDocumentMoniker": "ps\\10026.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\10026.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\10026.cpp",
               "RelativeToolTip": "ps\\10026.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -88,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "4179.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\4179.cpp",
               "RelativeDocumentMoniker": "ps\\4179.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\4179.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\4179.cpp",
               "RelativeToolTip": "ps\\4179.cpp",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -100,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "7576.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\7576.cpp",
               "RelativeDocumentMoniker": "ps\\7576.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\7576.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\7576.cpp",
               "RelativeToolTip": "ps\\7576.cpp",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -112,24 +132,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "temp.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\temp.cpp",
               "RelativeDocumentMoniker": "ps\\temp.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\temp.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\temp.cpp",
               "RelativeToolTip": "ps\\temp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-08T12:00:19.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T12:00:19.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "1926.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\1926.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1926.cpp",
               "RelativeDocumentMoniker": "ps\\1926.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\1926.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1926.cpp",
               "RelativeToolTip": "ps\\1926.cpp",
               "ViewState": "AQIAABUAAAAAAAAAAAAAADwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -137,15 +156,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "2178.cpp",
-              "DocumentMoniker": "F:\\projects\\ps\\ps\\ps\\2178.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2178.cpp",
               "RelativeDocumentMoniker": "ps\\2178.cpp",
-              "ToolTip": "F:\\projects\\ps\\ps\\ps\\2178.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\2178.cpp",
               "RelativeToolTip": "ps\\2178.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T11:22:09.462Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "38f2e119-f896-4263-8bfb-d1d1b25d463b",
+        "Display": 0,
+        "X": 109,
+        "Y": 177,
+        "Width": 709,
+        "Height": 714,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1074.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1074.cpp",
+              "RelativeDocumentMoniker": "ps\\1074.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\BJ\\ProblemSolving\\ps\\1074.cpp",
+              "RelativeToolTip": "ps\\1074.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T02:07:27.044Z",
+              "EditorCaption": ""
             }
           ]
         }
