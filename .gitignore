@@ -34,5 +34,8 @@
 .exe
 .out
 .app
+.vsidx
 
 # End of httpswww.toptal.comdevelopersgitignoreapic++
+*.vcxproj
+*.filters
