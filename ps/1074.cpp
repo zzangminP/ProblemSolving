@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+
+
 using namespace std;
 
 int puzzle(int n, int r, int c)

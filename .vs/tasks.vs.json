@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-1152",
+      "appliesTo": "ps/1152.cpp",
+      "type": "launch"
+    }
+  ]
+}
