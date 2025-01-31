@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "E:\\projects\\ProblemSolving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\1406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1463.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\15649.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\15649.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\temp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|E:\\projects\\ProblemSolving\\ps\\1406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEF7AE3A-C6E8-40DF-AD87-46C056B88CC1}|ps\\ps.vcxproj|solutionrelative:ps\\1406.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "15649.cpp",
+              "DocumentMoniker": "E:\\projects\\ProblemSolving\\ps\\15649.cpp",
+              "RelativeDocumentMoniker": "ps\\15649.cpp",
+              "ToolTip": "E:\\projects\\ProblemSolving\\ps\\15649.cpp",
+              "RelativeToolTip": "ps\\15649.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T14:06:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "1406.cpp",
               "DocumentMoniker": "E:\\projects\\ProblemSolving\\ps\\1406.cpp",
               "RelativeDocumentMoniker": "ps\\1406.cpp",
@@ -46,12 +55,11 @@
               "RelativeToolTip": "ps\\1406.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T07:48:27.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T07:48:27.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "temp.cpp",
               "DocumentMoniker": "E:\\projects\\ProblemSolving\\ps\\temp.cpp",
               "RelativeDocumentMoniker": "ps\\temp.cpp",
@@ -59,76 +67,7 @@
               "RelativeToolTip": "ps\\temp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T07:38:55.756Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "6eb5dbd9-34ba-4ea9-8571-135a959d57c1",
-        "Display": 0,
-        "X": 143,
-        "Y": 390,
-        "Width": 1846,
-        "Height": 1025,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "2747.cpp",
-              "DocumentMoniker": "E:\\projects\\ProblemSolving\\ps\\2747.cpp",
-              "RelativeDocumentMoniker": "ps\\2747.cpp",
-              "ToolTip": "E:\\projects\\ProblemSolving\\ps\\2747.cpp",
-              "RelativeToolTip": "ps\\2747.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T07:47:31.187Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c384182a-ac21-4848-9104-5f0571bb408c",
-        "Display": 0,
-        "X": 1463,
-        "Y": 406,
-        "Width": 570,
-        "Height": 1034,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "1463.cpp",
-              "DocumentMoniker": "E:\\projects\\ProblemSolving\\ps\\1463.cpp",
-              "RelativeDocumentMoniker": "ps\\1463.cpp",
-              "ToolTip": "E:\\projects\\ProblemSolving\\ps\\1463.cpp",
-              "RelativeToolTip": "ps\\1463.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-30T07:49:14.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T07:38:55.756Z"
             }
           ]
         }

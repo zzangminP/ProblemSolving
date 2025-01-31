@@ -39,3 +39,5 @@
 # End of httpswww.toptal.comdevelopersgitignoreapic++
 *.vcxproj
 *.filters
+*.vsidx
+*.opendb
