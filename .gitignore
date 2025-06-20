@@ -41,3 +41,5 @@
 *.filters
 *.vsidx
 *.opendb
+.vs/ps/v17
+Debug
